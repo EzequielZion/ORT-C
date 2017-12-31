@@ -1,0 +1,9 @@
+Z:\AFA\AFA\AFA\bin\Debug\AFA.exe.config
+Z:\AFA\AFA\AFA\bin\Debug\AFA.exe
+Z:\AFA\AFA\AFA\bin\Debug\AFA.pdb
+Z:\AFA\AFA\AFA\obj\Debug\AFA.csprojResolveAssemblyReference.cache
+Z:\AFA\AFA\AFA\obj\Debug\AFA.Form1.resources
+Z:\AFA\AFA\AFA\obj\Debug\AFA.Properties.Resources.resources
+Z:\AFA\AFA\AFA\obj\Debug\AFA.csproj.GenerateResource.Cache
+Z:\AFA\AFA\AFA\obj\Debug\AFA.exe
+Z:\AFA\AFA\AFA\obj\Debug\AFA.pdb

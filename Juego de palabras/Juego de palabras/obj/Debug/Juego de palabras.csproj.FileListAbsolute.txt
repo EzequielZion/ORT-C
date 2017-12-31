@@ -1,0 +1,27 @@
+F:\ORT\Primer trimestre\T.Ps\PROGRAMACIÓN\Juego de palabras\Juego de palabras\bin\Debug\Juego de palabras.exe.config
+F:\ORT\Primer trimestre\T.Ps\PROGRAMACIÓN\Juego de palabras\Juego de palabras\bin\Debug\Juego de palabras.exe
+F:\ORT\Primer trimestre\T.Ps\PROGRAMACIÓN\Juego de palabras\Juego de palabras\bin\Debug\Juego de palabras.pdb
+F:\ORT\Primer trimestre\T.Ps\PROGRAMACIÓN\Juego de palabras\Juego de palabras\obj\Debug\Juego_de_palabras.Form1.resources
+F:\ORT\Primer trimestre\T.Ps\PROGRAMACIÓN\Juego de palabras\Juego de palabras\obj\Debug\Juego_de_palabras.Properties.Resources.resources
+F:\ORT\Primer trimestre\T.Ps\PROGRAMACIÓN\Juego de palabras\Juego de palabras\obj\Debug\Juego de palabras.csproj.GenerateResource.Cache
+F:\ORT\Primer trimestre\T.Ps\PROGRAMACIÓN\Juego de palabras\Juego de palabras\obj\Debug\Juego de palabras.exe
+F:\ORT\Primer trimestre\T.Ps\PROGRAMACIÓN\Juego de palabras\Juego de palabras\obj\Debug\Juego de palabras.pdb
+F:\ORT\Primer trimestre\T.Ps\PROGRAMACIÓN\Juego de palabras\Juego de palabras\obj\Debug\Juego de palabras.csprojResolveAssemblyReference.cache
+F:\ORT\Primer trimestre\T.Ps\PROGRAMACIÓN\Programación-Juego de palabras\Juego de palabras\bin\Debug\Juego de palabras.exe.config
+F:\ORT\Primer trimestre\T.Ps\PROGRAMACIÓN\Programación-Juego de palabras\Juego de palabras\obj\Debug\Juego de palabras.exe
+F:\ORT\Primer trimestre\T.Ps\PROGRAMACIÓN\Programación-Juego de palabras\Juego de palabras\obj\Debug\Juego de palabras.pdb
+F:\ORT\Primer trimestre\T.Ps\PROGRAMACIÓN\Programación-Juego de palabras\Juego de palabras\bin\Debug\Juego de palabras.exe
+F:\ORT\Primer trimestre\T.Ps\PROGRAMACIÓN\Programación-Juego de palabras\Juego de palabras\bin\Debug\Juego de palabras.pdb
+F:\ORT\Primer trimestre\T.Ps\PROGRAMACIÓN\Programación-Juego de palabras\Juego de palabras\obj\Debug\Juego de palabras.csprojResolveAssemblyReference.cache
+F:\ORT\Primer trimestre\T.Ps\PROGRAMACIÓN\Programación-Juego de palabras\Juego de palabras\obj\Debug\Juego_de_palabras.Form1.resources
+F:\ORT\Primer trimestre\T.Ps\PROGRAMACIÓN\Programación-Juego de palabras\Juego de palabras\obj\Debug\Juego_de_palabras.Properties.Resources.resources
+F:\ORT\Primer trimestre\T.Ps\PROGRAMACIÓN\Programación-Juego de palabras\Juego de palabras\obj\Debug\Juego de palabras.csproj.GenerateResource.Cache
+G:\ORT\Primer trimestre\T.Ps\PROGRAMACIÓN\Programación-Juego de palabras\Juego de palabras\bin\Debug\Juego de palabras.exe.config
+G:\ORT\Primer trimestre\T.Ps\PROGRAMACIÓN\Programación-Juego de palabras\Juego de palabras\bin\Debug\Juego de palabras.exe
+G:\ORT\Primer trimestre\T.Ps\PROGRAMACIÓN\Programación-Juego de palabras\Juego de palabras\bin\Debug\Juego de palabras.pdb
+G:\ORT\Primer trimestre\T.Ps\PROGRAMACIÓN\Programación-Juego de palabras\Juego de palabras\obj\Debug\Juego de palabras.csprojResolveAssemblyReference.cache
+G:\ORT\Primer trimestre\T.Ps\PROGRAMACIÓN\Programación-Juego de palabras\Juego de palabras\obj\Debug\Juego_de_palabras.Form1.resources
+G:\ORT\Primer trimestre\T.Ps\PROGRAMACIÓN\Programación-Juego de palabras\Juego de palabras\obj\Debug\Juego_de_palabras.Properties.Resources.resources
+G:\ORT\Primer trimestre\T.Ps\PROGRAMACIÓN\Programación-Juego de palabras\Juego de palabras\obj\Debug\Juego de palabras.csproj.GenerateResource.Cache
+G:\ORT\Primer trimestre\T.Ps\PROGRAMACIÓN\Programación-Juego de palabras\Juego de palabras\obj\Debug\Juego de palabras.exe
+G:\ORT\Primer trimestre\T.Ps\PROGRAMACIÓN\Programación-Juego de palabras\Juego de palabras\obj\Debug\Juego de palabras.pdb

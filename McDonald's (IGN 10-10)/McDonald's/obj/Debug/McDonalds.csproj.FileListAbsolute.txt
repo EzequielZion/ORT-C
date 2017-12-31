@@ -1,0 +1,9 @@
+F:\ORT\Segundo trimestre\T.Ps\PROGRAMACIÓN\McDonald's\McDonald's\obj\Debug\McDonalds.csproj.GenerateResource.Cache
+F:\ORT\Segundo trimestre\T.Ps\PROGRAMACIÓN\McDonald's\McDonald's\bin\Debug\McDonalds.exe.config
+F:\ORT\Segundo trimestre\T.Ps\PROGRAMACIÓN\McDonald's\McDonald's\obj\Debug\McDonalds.Form1.resources
+F:\ORT\Segundo trimestre\T.Ps\PROGRAMACIÓN\McDonald's\McDonald's\obj\Debug\McDonalds.Properties.Resources.resources
+F:\ORT\Segundo trimestre\T.Ps\PROGRAMACIÓN\McDonald's\McDonald's\bin\Debug\McDonalds.exe
+F:\ORT\Segundo trimestre\T.Ps\PROGRAMACIÓN\McDonald's\McDonald's\bin\Debug\McDonalds.pdb
+F:\ORT\Segundo trimestre\T.Ps\PROGRAMACIÓN\McDonald's\McDonald's\obj\Debug\McDonalds.exe
+F:\ORT\Segundo trimestre\T.Ps\PROGRAMACIÓN\McDonald's\McDonald's\obj\Debug\McDonalds.pdb
+F:\ORT\Segundo trimestre\T.Ps\PROGRAMACIÓN\McDonald's\McDonald's\obj\Debug\McDonalds.csprojResolveAssemblyReference.cache

@@ -1,0 +1,24 @@
+Z:\AFA\AFA\AFA\bin\Debug\AFA.exe.config
+Z:\AFA\AFA\AFA\bin\Debug\AFA.exe
+Z:\AFA\AFA\AFA\bin\Debug\AFA.pdb
+Z:\AFA\AFA\AFA\obj\Debug\AFA.csprojResolveAssemblyReference.cache
+Z:\AFA\AFA\AFA\obj\Debug\AFA.Form1.resources
+Z:\AFA\AFA\AFA\obj\Debug\AFA.Properties.Resources.resources
+Z:\AFA\AFA\AFA\obj\Debug\AFA.csproj.GenerateResource.Cache
+Z:\AFA\AFA\AFA\obj\Debug\AFA.exe
+Z:\AFA\AFA\AFA\obj\Debug\AFA.pdb
+F:\ORT\Tercer trimestre\T.Ps\PROGRAMACIÓN\AFA\AFA\AFA\bin\Debug\AFA.exe.config
+F:\ORT\Tercer trimestre\T.Ps\PROGRAMACIÓN\AFA\AFA\AFA\obj\Debug\AFA.exe
+F:\ORT\Tercer trimestre\T.Ps\PROGRAMACIÓN\AFA\AFA\AFA\obj\Debug\AFA.pdb
+F:\ORT\Tercer trimestre\T.Ps\PROGRAMACIÓN\AFA\AFA\bin\Debug\AFA.exe.config
+F:\ORT\Tercer trimestre\T.Ps\PROGRAMACIÓN\AFA\AFA\obj\Debug\AFA.exe
+F:\ORT\Tercer trimestre\T.Ps\PROGRAMACIÓN\AFA\AFA\obj\Debug\AFA.pdb
+G:\ORT\Tercer trimestre\T.Ps\PROGRAMACIÓN\AFA\AFA\bin\Debug\AFA.exe.config
+G:\ORT\Tercer trimestre\T.Ps\PROGRAMACIÓN\AFA\AFA\obj\Debug\AFA.exe
+G:\ORT\Tercer trimestre\T.Ps\PROGRAMACIÓN\AFA\AFA\obj\Debug\AFA.pdb
+G:\ORT\Tercer trimestre\T.Ps\PROGRAMACIÓN\AFA\AFA\bin\Debug\AFA.exe
+G:\ORT\Tercer trimestre\T.Ps\PROGRAMACIÓN\AFA\AFA\bin\Debug\AFA.pdb
+G:\ORT\Tercer trimestre\T.Ps\PROGRAMACIÓN\AFA\AFA\obj\Debug\AFA.csprojResolveAssemblyReference.cache
+G:\ORT\Tercer trimestre\T.Ps\PROGRAMACIÓN\AFA\AFA\obj\Debug\AFA.Form1.resources
+G:\ORT\Tercer trimestre\T.Ps\PROGRAMACIÓN\AFA\AFA\obj\Debug\AFA.Properties.Resources.resources
+G:\ORT\Tercer trimestre\T.Ps\PROGRAMACIÓN\AFA\AFA\obj\Debug\AFA.csproj.GenerateResource.Cache

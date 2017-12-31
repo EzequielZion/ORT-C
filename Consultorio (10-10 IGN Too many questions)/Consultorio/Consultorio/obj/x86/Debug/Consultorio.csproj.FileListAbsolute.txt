@@ -1,0 +1,33 @@
+F:\ORT\Primer trimestre\T.Ps\Consultorio\Consultorio\obj\x86\Debug\Consultorio.Properties.Resources.resources
+F:\ORT\Primer trimestre\T.Ps\Consultorio\Consultorio\obj\x86\Debug\Consultorio.csproj.GenerateResource.Cache
+F:\ORT\Primer trimestre\T.Ps\Consultorio\Consultorio\bin\Debug\Consultorio.exe
+F:\ORT\Primer trimestre\T.Ps\Consultorio\Consultorio\bin\Debug\Consultorio.pdb
+F:\ORT\Primer trimestre\T.Ps\Consultorio\Consultorio\obj\x86\Debug\Consultorio.frmConsultorio.resources
+F:\ORT\Primer trimestre\T.Ps\Consultorio\Consultorio\obj\x86\Debug\Consultorio.exe
+F:\ORT\Primer trimestre\T.Ps\Consultorio\Consultorio\obj\x86\Debug\Consultorio.pdb
+F:\Primer trimestre\T.Ps\Programación-Consultorio\Consultorio\Consultorio\obj\x86\Debug\Consultorio.exe
+F:\Primer trimestre\T.Ps\Programación-Consultorio\Consultorio\Consultorio\obj\x86\Debug\Consultorio.pdb
+F:\Primer trimestre\T.Ps\Programación-Consultorio\Consultorio\Consultorio\bin\Debug\Consultorio.exe
+F:\Primer trimestre\T.Ps\Programación-Consultorio\Consultorio\Consultorio\bin\Debug\Consultorio.pdb
+F:\Primer trimestre\T.Ps\Programación-Consultorio\Consultorio\Consultorio\obj\x86\Debug\Consultorio.frmConsultorio.resources
+F:\Primer trimestre\T.Ps\Programación-Consultorio\Consultorio\Consultorio\obj\x86\Debug\Consultorio.Properties.Resources.resources
+F:\Primer trimestre\T.Ps\Programación-Consultorio\Consultorio\Consultorio\obj\x86\Debug\Consultorio.csproj.GenerateResource.Cache
+F:\Primer trimestre\T.Ps\Programación-Consultorio\Consultorio\Consultorio\obj\x86\Debug\Consultorio.csprojResolveAssemblyReference.cache
+D:\Primer trimestre\T.Ps\Programación-Consultorio (10-10 IGN Too many questions)\Consultorio\Consultorio\obj\x86\Debug\Consultorio.exe
+D:\Primer trimestre\T.Ps\Programación-Consultorio (10-10 IGN Too many questions)\Consultorio\Consultorio\obj\x86\Debug\Consultorio.pdb
+D:\Primer trimestre\T.Ps\Programación-Consultorio (10-10 IGN Too many questions)\Consultorio\Consultorio\bin\Debug\Consultorio.exe
+D:\Primer trimestre\T.Ps\Programación-Consultorio (10-10 IGN Too many questions)\Consultorio\Consultorio\bin\Debug\Consultorio.pdb
+D:\Primer trimestre\T.Ps\Programación-Consultorio (10-10 IGN Too many questions)\Consultorio\Consultorio\obj\x86\Debug\Consultorio.csprojResolveAssemblyReference.cache
+D:\Primer trimestre\T.Ps\Programación-Consultorio (10-10 IGN Too many questions)\Consultorio\Consultorio\obj\x86\Debug\Consultorio.frmConsultorio.resources
+D:\Primer trimestre\T.Ps\Programación-Consultorio (10-10 IGN Too many questions)\Consultorio\Consultorio\obj\x86\Debug\Consultorio.Properties.Resources.resources
+D:\Primer trimestre\T.Ps\Programación-Consultorio (10-10 IGN Too many questions)\Consultorio\Consultorio\obj\x86\Debug\Consultorio.csproj.GenerateResource.Cache
+F:\Primer trimestre\T.Ps\Programación-Consultorio (10-10 IGN Too many questions)\Consultorio\Consultorio\obj\x86\Debug\Consultorio.exe
+F:\Primer trimestre\T.Ps\Programación-Consultorio (10-10 IGN Too many questions)\Consultorio\Consultorio\obj\x86\Debug\Consultorio.pdb
+F:\Primer trimestre\T.Ps\Programación-Consultorio (10-10 IGN Too many questions)\Consultorio\Consultorio\bin\Debug\Consultorio.exe
+F:\Primer trimestre\T.Ps\Programación-Consultorio (10-10 IGN Too many questions)\Consultorio\Consultorio\bin\Debug\Consultorio.pdb
+F:\Primer trimestre\T.Ps\Programación-Consultorio (10-10 IGN Too many questions)\Consultorio\Consultorio\obj\x86\Debug\Consultorio.csprojResolveAssemblyReference.cache
+F:\Primer trimestre\T.Ps\Programación-Consultorio (10-10 IGN Too many questions)\Consultorio\Consultorio\obj\x86\Debug\Consultorio.frmConsultorio.resources
+F:\Primer trimestre\T.Ps\Programación-Consultorio (10-10 IGN Too many questions)\Consultorio\Consultorio\obj\x86\Debug\Consultorio.Properties.Resources.resources
+F:\Primer trimestre\T.Ps\Programación-Consultorio (10-10 IGN Too many questions)\Consultorio\Consultorio\obj\x86\Debug\Consultorio.csproj.GenerateResource.Cache
+F:\ORT\Primer trimestre\T.Ps\PROGRAMACIÓN\Programación-Consultorio (10-10 IGN Too many questions)\Consultorio\Consultorio\obj\x86\Debug\Consultorio.exe
+F:\ORT\Primer trimestre\T.Ps\PROGRAMACIÓN\Programación-Consultorio (10-10 IGN Too many questions)\Consultorio\Consultorio\obj\x86\Debug\Consultorio.pdb

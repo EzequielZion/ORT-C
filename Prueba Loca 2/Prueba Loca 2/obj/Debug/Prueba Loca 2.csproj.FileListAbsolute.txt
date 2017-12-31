@@ -1,0 +1,9 @@
+F:\ORT\Primer trimestre\T.Ps\PROGRAMACIÓN\Prueba Loca 2\Prueba Loca 2\bin\Debug\Prueba Loca 2.exe.config
+F:\ORT\Primer trimestre\T.Ps\PROGRAMACIÓN\Prueba Loca 2\Prueba Loca 2\bin\Debug\Prueba Loca 2.exe
+F:\ORT\Primer trimestre\T.Ps\PROGRAMACIÓN\Prueba Loca 2\Prueba Loca 2\bin\Debug\Prueba Loca 2.pdb
+F:\ORT\Primer trimestre\T.Ps\PROGRAMACIÓN\Prueba Loca 2\Prueba Loca 2\obj\Debug\Prueba Loca 2.csprojResolveAssemblyReference.cache
+F:\ORT\Primer trimestre\T.Ps\PROGRAMACIÓN\Prueba Loca 2\Prueba Loca 2\obj\Debug\Prueba_Loca_2.Form1.resources
+F:\ORT\Primer trimestre\T.Ps\PROGRAMACIÓN\Prueba Loca 2\Prueba Loca 2\obj\Debug\Prueba_Loca_2.Properties.Resources.resources
+F:\ORT\Primer trimestre\T.Ps\PROGRAMACIÓN\Prueba Loca 2\Prueba Loca 2\obj\Debug\Prueba Loca 2.csproj.GenerateResource.Cache
+F:\ORT\Primer trimestre\T.Ps\PROGRAMACIÓN\Prueba Loca 2\Prueba Loca 2\obj\Debug\Prueba Loca 2.exe
+F:\ORT\Primer trimestre\T.Ps\PROGRAMACIÓN\Prueba Loca 2\Prueba Loca 2\obj\Debug\Prueba Loca 2.pdb

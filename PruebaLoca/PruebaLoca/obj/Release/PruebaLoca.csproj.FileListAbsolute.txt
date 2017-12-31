@@ -1,0 +1,8 @@
+D:\Primer trimestre\T.Ps\Programación-Prueba\PruebaLoca\PruebaLoca\bin\Release\PruebaLoca.exe.config
+D:\Primer trimestre\T.Ps\Programación-Prueba\PruebaLoca\PruebaLoca\bin\Release\PruebaLoca.exe
+D:\Primer trimestre\T.Ps\Programación-Prueba\PruebaLoca\PruebaLoca\bin\Release\PruebaLoca.pdb
+D:\Primer trimestre\T.Ps\Programación-Prueba\PruebaLoca\PruebaLoca\obj\Release\PruebaLoca.Form1.resources
+D:\Primer trimestre\T.Ps\Programación-Prueba\PruebaLoca\PruebaLoca\obj\Release\PruebaLoca.Properties.Resources.resources
+D:\Primer trimestre\T.Ps\Programación-Prueba\PruebaLoca\PruebaLoca\obj\Release\PruebaLoca.csproj.GenerateResource.Cache
+D:\Primer trimestre\T.Ps\Programación-Prueba\PruebaLoca\PruebaLoca\obj\Release\PruebaLoca.exe
+D:\Primer trimestre\T.Ps\Programación-Prueba\PruebaLoca\PruebaLoca\obj\Release\PruebaLoca.pdb

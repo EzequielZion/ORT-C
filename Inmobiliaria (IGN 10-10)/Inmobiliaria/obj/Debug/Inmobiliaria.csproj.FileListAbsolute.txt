@@ -1,0 +1,24 @@
+F:\ORT\Segundo trimestre\T.Ps\PROGRAMACIÓN\Inmobiliaria\Inmobiliaria\bin\Debug\Inmobiliaria.exe.config
+F:\ORT\Segundo trimestre\T.Ps\PROGRAMACIÓN\Inmobiliaria\Inmobiliaria\bin\Debug\Inmobiliaria.exe
+F:\ORT\Segundo trimestre\T.Ps\PROGRAMACIÓN\Inmobiliaria\Inmobiliaria\bin\Debug\Inmobiliaria.pdb
+F:\ORT\Segundo trimestre\T.Ps\PROGRAMACIÓN\Inmobiliaria\Inmobiliaria\obj\Debug\Inmobiliaria.csprojResolveAssemblyReference.cache
+F:\ORT\Segundo trimestre\T.Ps\PROGRAMACIÓN\Inmobiliaria\Inmobiliaria\obj\Debug\Inmobiliaria.Form1.resources
+F:\ORT\Segundo trimestre\T.Ps\PROGRAMACIÓN\Inmobiliaria\Inmobiliaria\obj\Debug\Inmobiliaria.Properties.Resources.resources
+F:\ORT\Segundo trimestre\T.Ps\PROGRAMACIÓN\Inmobiliaria\Inmobiliaria\obj\Debug\Inmobiliaria.csproj.GenerateResource.Cache
+F:\ORT\Segundo trimestre\T.Ps\PROGRAMACIÓN\Inmobiliaria\Inmobiliaria\obj\Debug\Inmobiliaria.exe
+F:\ORT\Segundo trimestre\T.Ps\PROGRAMACIÓN\Inmobiliaria\Inmobiliaria\obj\Debug\Inmobiliaria.pdb
+G:\ORT\Segundo trimestre\T.Ps\PROGRAMACIÓN\Inmobiliaria\Inmobiliaria\bin\Debug\Inmobiliaria.exe.config
+G:\ORT\Segundo trimestre\T.Ps\PROGRAMACIÓN\Inmobiliaria\Inmobiliaria\obj\Debug\Inmobiliaria.exe
+G:\ORT\Segundo trimestre\T.Ps\PROGRAMACIÓN\Inmobiliaria\Inmobiliaria\obj\Debug\Inmobiliaria.pdb
+G:\ORT\Segundo trimestre\T.Ps\PROGRAMACIÓN\Inmobiliaria\Inmobiliaria\bin\Debug\Inmobiliaria.exe
+G:\ORT\Segundo trimestre\T.Ps\PROGRAMACIÓN\Inmobiliaria\Inmobiliaria\bin\Debug\Inmobiliaria.pdb
+G:\ORT\Segundo trimestre\T.Ps\PROGRAMACIÓN\Inmobiliaria\Inmobiliaria\obj\Debug\Inmobiliaria.csprojResolveAssemblyReference.cache
+G:\ORT\Segundo trimestre\T.Ps\PROGRAMACIÓN\Inmobiliaria\Inmobiliaria\obj\Debug\Inmobiliaria.Form1.resources
+G:\ORT\Segundo trimestre\T.Ps\PROGRAMACIÓN\Inmobiliaria\Inmobiliaria\obj\Debug\Inmobiliaria.Properties.Resources.resources
+G:\ORT\Segundo trimestre\T.Ps\PROGRAMACIÓN\Inmobiliaria\Inmobiliaria\obj\Debug\Inmobiliaria.csproj.GenerateResource.Cache
+G:\ORT\Segundo trimestre\T.Ps\PROGRAMACIÓN\Inmobiliaria (IGN 10-10)\Inmobiliaria\bin\Debug\Inmobiliaria.exe.config
+G:\ORT\Segundo trimestre\T.Ps\PROGRAMACIÓN\Inmobiliaria (IGN 10-10)\Inmobiliaria\obj\Debug\Inmobiliaria.exe
+G:\ORT\Segundo trimestre\T.Ps\PROGRAMACIÓN\Inmobiliaria (IGN 10-10)\Inmobiliaria\obj\Debug\Inmobiliaria.pdb
+D:\ORT\Segundo trimestre\T.Ps\PROGRAMACIÓN\Inmobiliaria (IGN 10-10)\Inmobiliaria\bin\Debug\Inmobiliaria.exe.config
+D:\ORT\Segundo trimestre\T.Ps\PROGRAMACIÓN\Inmobiliaria (IGN 10-10)\Inmobiliaria\obj\Debug\Inmobiliaria.exe
+D:\ORT\Segundo trimestre\T.Ps\PROGRAMACIÓN\Inmobiliaria (IGN 10-10)\Inmobiliaria\obj\Debug\Inmobiliaria.pdb

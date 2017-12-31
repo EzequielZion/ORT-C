@@ -1,0 +1,27 @@
+F:\ORT\Primer trimestre\T.Ps\PROGRAMACIÓN\Programación-Números Romanos\Programación-Números Romanos\bin\Debug\Programación-Números Romanos.exe.config
+F:\ORT\Primer trimestre\T.Ps\PROGRAMACIÓN\Programación-Números Romanos\Programación-Números Romanos\bin\Debug\Programación-Números Romanos.exe
+F:\ORT\Primer trimestre\T.Ps\PROGRAMACIÓN\Programación-Números Romanos\Programación-Números Romanos\bin\Debug\Programación-Números Romanos.pdb
+F:\ORT\Primer trimestre\T.Ps\PROGRAMACIÓN\Programación-Números Romanos\Programación-Números Romanos\obj\Debug\Programación-Números Romanos.csprojResolveAssemblyReference.cache
+F:\ORT\Primer trimestre\T.Ps\PROGRAMACIÓN\Programación-Números Romanos\Programación-Números Romanos\obj\Debug\Programación_Números_Romanos.Form1.resources
+F:\ORT\Primer trimestre\T.Ps\PROGRAMACIÓN\Programación-Números Romanos\Programación-Números Romanos\obj\Debug\Programación_Números_Romanos.Properties.Resources.resources
+F:\ORT\Primer trimestre\T.Ps\PROGRAMACIÓN\Programación-Números Romanos\Programación-Números Romanos\obj\Debug\Programación-Números Romanos.csproj.GenerateResource.Cache
+F:\ORT\Primer trimestre\T.Ps\PROGRAMACIÓN\Programación-Números Romanos\Programación-Números Romanos\obj\Debug\Programación-Números Romanos.exe
+F:\ORT\Primer trimestre\T.Ps\PROGRAMACIÓN\Programación-Números Romanos\Programación-Números Romanos\obj\Debug\Programación-Números Romanos.pdb
+E:\ORT\Primer trimestre\T.Ps\PROGRAMACIÓN\Programación-Números Romanos\Programación-Números Romanos\bin\Debug\Programación-Números Romanos.exe.config
+E:\ORT\Primer trimestre\T.Ps\PROGRAMACIÓN\Programación-Números Romanos\Programación-Números Romanos\obj\Debug\Programación-Números Romanos.exe
+E:\ORT\Primer trimestre\T.Ps\PROGRAMACIÓN\Programación-Números Romanos\Programación-Números Romanos\obj\Debug\Programación-Números Romanos.pdb
+E:\ORT\Primer trimestre\T.Ps\PROGRAMACIÓN\Programación-Números Romanos\Programación-Números Romanos\bin\Debug\Programación-Números Romanos.exe
+E:\ORT\Primer trimestre\T.Ps\PROGRAMACIÓN\Programación-Números Romanos\Programación-Números Romanos\bin\Debug\Programación-Números Romanos.pdb
+E:\ORT\Primer trimestre\T.Ps\PROGRAMACIÓN\Programación-Números Romanos\Programación-Números Romanos\obj\Debug\Programación-Números Romanos.csprojResolveAssemblyReference.cache
+E:\ORT\Primer trimestre\T.Ps\PROGRAMACIÓN\Programación-Números Romanos\Programación-Números Romanos\obj\Debug\Programación_Números_Romanos.Form1.resources
+E:\ORT\Primer trimestre\T.Ps\PROGRAMACIÓN\Programación-Números Romanos\Programación-Números Romanos\obj\Debug\Programación_Números_Romanos.Properties.Resources.resources
+E:\ORT\Primer trimestre\T.Ps\PROGRAMACIÓN\Programación-Números Romanos\Programación-Números Romanos\obj\Debug\Programación-Números Romanos.csproj.GenerateResource.Cache
+G:\ORT\Primer trimestre\T.Ps\PROGRAMACIÓN\Programación-Números Romanos\Programación-Números Romanos\bin\Debug\Programación-Números Romanos.exe.config
+G:\ORT\Primer trimestre\T.Ps\PROGRAMACIÓN\Programación-Números Romanos\Programación-Números Romanos\obj\Debug\Programación-Números Romanos.exe
+G:\ORT\Primer trimestre\T.Ps\PROGRAMACIÓN\Programación-Números Romanos\Programación-Números Romanos\obj\Debug\Programación-Números Romanos.pdb
+G:\ORT\Primer trimestre\T.Ps\PROGRAMACIÓN\Programación-Números Romanos\Programación-Números Romanos\bin\Debug\Programación-Números Romanos.exe
+G:\ORT\Primer trimestre\T.Ps\PROGRAMACIÓN\Programación-Números Romanos\Programación-Números Romanos\bin\Debug\Programación-Números Romanos.pdb
+G:\ORT\Primer trimestre\T.Ps\PROGRAMACIÓN\Programación-Números Romanos\Programación-Números Romanos\obj\Debug\Programación-Números Romanos.csprojResolveAssemblyReference.cache
+G:\ORT\Primer trimestre\T.Ps\PROGRAMACIÓN\Programación-Números Romanos\Programación-Números Romanos\obj\Debug\Programación_Números_Romanos.Form1.resources
+G:\ORT\Primer trimestre\T.Ps\PROGRAMACIÓN\Programación-Números Romanos\Programación-Números Romanos\obj\Debug\Programación_Números_Romanos.Properties.Resources.resources
+G:\ORT\Primer trimestre\T.Ps\PROGRAMACIÓN\Programación-Números Romanos\Programación-Números Romanos\obj\Debug\Programación-Números Romanos.csproj.GenerateResource.Cache

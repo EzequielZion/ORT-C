@@ -1,0 +1,9 @@
+F:\ORT\Primer trimestre\T.Ps\PROGRAMACIÓN\Programación-Kiosko de la abuela\Kiosko De La Abuela\Kiosko De La Abuela\bin\Debug\Kiosko De La Abuela.exe.config
+F:\ORT\Primer trimestre\T.Ps\PROGRAMACIÓN\Programación-Kiosko de la abuela\Kiosko De La Abuela\Kiosko De La Abuela\bin\Debug\Kiosko De La Abuela.exe
+F:\ORT\Primer trimestre\T.Ps\PROGRAMACIÓN\Programación-Kiosko de la abuela\Kiosko De La Abuela\Kiosko De La Abuela\bin\Debug\Kiosko De La Abuela.pdb
+F:\ORT\Primer trimestre\T.Ps\PROGRAMACIÓN\Programación-Kiosko de la abuela\Kiosko De La Abuela\Kiosko De La Abuela\obj\Debug\Kiosko De La Abuela.csprojResolveAssemblyReference.cache
+F:\ORT\Primer trimestre\T.Ps\PROGRAMACIÓN\Programación-Kiosko de la abuela\Kiosko De La Abuela\Kiosko De La Abuela\obj\Debug\Kiosko_De_La_Abuela.Form1.resources
+F:\ORT\Primer trimestre\T.Ps\PROGRAMACIÓN\Programación-Kiosko de la abuela\Kiosko De La Abuela\Kiosko De La Abuela\obj\Debug\Kiosko_De_La_Abuela.Properties.Resources.resources
+F:\ORT\Primer trimestre\T.Ps\PROGRAMACIÓN\Programación-Kiosko de la abuela\Kiosko De La Abuela\Kiosko De La Abuela\obj\Debug\Kiosko De La Abuela.csproj.GenerateResource.Cache
+F:\ORT\Primer trimestre\T.Ps\PROGRAMACIÓN\Programación-Kiosko de la abuela\Kiosko De La Abuela\Kiosko De La Abuela\obj\Debug\Kiosko De La Abuela.exe
+F:\ORT\Primer trimestre\T.Ps\PROGRAMACIÓN\Programación-Kiosko de la abuela\Kiosko De La Abuela\Kiosko De La Abuela\obj\Debug\Kiosko De La Abuela.pdb

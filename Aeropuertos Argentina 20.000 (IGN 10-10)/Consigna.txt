@@ -1,0 +1,18 @@
+La empresa Aeropuertos Argentina 20.000 nos solicita que desarrollemos el sistema que maneja los vuelos de Ezeiza
+
+Debemos ingresar en una lista de vuelos, todos los vuelos del día.
+
+Cada vuelo tiene:
+
+Número de vuelo (por ej: AA1234) mantener formato, dos letras y cuatro numeros
+Origen
+Destino
+Fecha de partida -->Datetimepicker
+Aerolinea
+Número de puerta --> Num al azar entre 1 y 20 (Los números no pueden repetirse)
+Precio del pasaje
+Cantidad de pasajeros
+Se solicita:
+
+Mostrar avion con más pasajeros
+Mostrar avión con mayor recaudación

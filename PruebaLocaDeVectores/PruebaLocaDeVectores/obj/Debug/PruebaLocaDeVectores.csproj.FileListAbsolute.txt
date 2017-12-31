@@ -1,0 +1,12 @@
+F:\ORT\Segundo trimestre\T.Ps\PROGRAMACIÓN\PruebaLocaDeVectores\PruebaLocaDeVectores\bin\Debug\PruebaLocaDeVectores.exe.config
+F:\ORT\Segundo trimestre\T.Ps\PROGRAMACIÓN\PruebaLocaDeVectores\PruebaLocaDeVectores\obj\Debug\PruebaLocaDeVectores.csprojResolveAssemblyReference.cache
+F:\ORT\Segundo trimestre\T.Ps\PROGRAMACIÓN\PruebaLocaDeVectores\PruebaLocaDeVectores\obj\Debug\PruebaLocaDeVectores.Form1.resources
+F:\ORT\Segundo trimestre\T.Ps\PROGRAMACIÓN\PruebaLocaDeVectores\PruebaLocaDeVectores\obj\Debug\PruebaLocaDeVectores.Properties.Resources.resources
+F:\ORT\Segundo trimestre\T.Ps\PROGRAMACIÓN\PruebaLocaDeVectores\PruebaLocaDeVectores\obj\Debug\PruebaLocaDeVectores.csproj.GenerateResource.Cache
+F:\ORT\Segundo trimestre\T.Ps\PROGRAMACIÓN\PruebaLocaDeVectores\PruebaLocaDeVectores\bin\Debug\PruebaLocaDeVectores.exe
+F:\ORT\Segundo trimestre\T.Ps\PROGRAMACIÓN\PruebaLocaDeVectores\PruebaLocaDeVectores\bin\Debug\PruebaLocaDeVectores.pdb
+F:\ORT\Segundo trimestre\T.Ps\PROGRAMACIÓN\PruebaLocaDeVectores\PruebaLocaDeVectores\obj\Debug\PruebaLocaDeVectores.exe
+F:\ORT\Segundo trimestre\T.Ps\PROGRAMACIÓN\PruebaLocaDeVectores\PruebaLocaDeVectores\obj\Debug\PruebaLocaDeVectores.pdb
+G:\ORT\Segundo trimestre\T.Ps\PROGRAMACIÓN\PruebaLocaDeVectores\PruebaLocaDeVectores\bin\Debug\PruebaLocaDeVectores.exe.config
+G:\ORT\Segundo trimestre\T.Ps\PROGRAMACIÓN\PruebaLocaDeVectores\PruebaLocaDeVectores\obj\Debug\PruebaLocaDeVectores.exe
+G:\ORT\Segundo trimestre\T.Ps\PROGRAMACIÓN\PruebaLocaDeVectores\PruebaLocaDeVectores\obj\Debug\PruebaLocaDeVectores.pdb

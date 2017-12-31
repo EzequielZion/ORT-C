@@ -1,0 +1,21 @@
+C:\Users\Ezequiel\Desktop\McDonald's\McDonald's\bin\Debug\McDonald's.exe.config
+C:\Users\Ezequiel\Desktop\McDonald's\McDonald's\obj\Debug\McDonald's.csprojResolveAssemblyReference.cache
+C:\Users\Ezequiel\Desktop\McDonald's\McDonald's\obj\Debug\McDonald_s.Form1.resources
+C:\Users\Ezequiel\Desktop\McDonald's\McDonald's\obj\Debug\McDonald_s.Properties.Resources.resources
+C:\Users\Ezequiel\Desktop\McDonald's\McDonald's\obj\Debug\McDonald's.csproj.GenerateResource.Cache
+C:\Users\Ezequiel\Desktop\McDonald's\McDonald's\bin\Debug\McDonald's.exe
+C:\Users\Ezequiel\Desktop\McDonald's\McDonald's\bin\Debug\McDonald's.pdb
+C:\Users\Ezequiel\Desktop\McDonald's\McDonald's\obj\Debug\McDonald's.exe
+C:\Users\Ezequiel\Desktop\McDonald's\McDonald's\obj\Debug\McDonald's.pdb
+G:\ORT\Segundo trimestre\T.Ps\PROGRAMACIÓN\McDonald's\McDonald's\bin\Debug\McDonald's.exe.config
+G:\ORT\Segundo trimestre\T.Ps\PROGRAMACIÓN\McDonald's\McDonald's\obj\Debug\McDonald's.exe
+G:\ORT\Segundo trimestre\T.Ps\PROGRAMACIÓN\McDonald's\McDonald's\obj\Debug\McDonald's.pdb
+F:\ORT\Segundo trimestre\T.Ps\PROGRAMACIÓN\McDonald's\McDonald's\bin\Debug\McDonald's.exe.config
+F:\ORT\Segundo trimestre\T.Ps\PROGRAMACIÓN\McDonald's\McDonald's\obj\Debug\McDonald's.exe
+F:\ORT\Segundo trimestre\T.Ps\PROGRAMACIÓN\McDonald's\McDonald's\obj\Debug\McDonald's.pdb
+F:\ORT\Segundo trimestre\T.Ps\PROGRAMACIÓN\McDonald's\McDonald's\bin\Debug\McDonald's.exe
+F:\ORT\Segundo trimestre\T.Ps\PROGRAMACIÓN\McDonald's\McDonald's\bin\Debug\McDonald's.pdb
+F:\ORT\Segundo trimestre\T.Ps\PROGRAMACIÓN\McDonald's\McDonald's\obj\Debug\McDonald's.csprojResolveAssemblyReference.cache
+F:\ORT\Segundo trimestre\T.Ps\PROGRAMACIÓN\McDonald's\McDonald's\obj\Debug\McDonald_s.Form1.resources
+F:\ORT\Segundo trimestre\T.Ps\PROGRAMACIÓN\McDonald's\McDonald's\obj\Debug\McDonald_s.Properties.Resources.resources
+F:\ORT\Segundo trimestre\T.Ps\PROGRAMACIÓN\McDonald's\McDonald's\obj\Debug\McDonald's.csproj.GenerateResource.Cache

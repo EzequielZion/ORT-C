@@ -1,0 +1,26 @@
+i++;
+            if (i <= 19)
+            {
+                for (int j = 0; j < vecRandom.Length-1; j++)
+                {
+                    Random NúmRandom= new Random();
+                    vecRandom[j] = NúmRandom.Next(0, 20);
+                    if (j > 0) 
+                    {
+                        for (int x = 0; x <= 20; x++)  
+                        {
+                            for (int l = 0; l <= j; l++)
+                            {
+                                if (vecRandom[l] == vecRandom[j])
+                                {
+                                    vecRandom[j] = NúmRandom.Next(0, 20);
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+            else
+            {
+                Error += "Error, ya no hay números de puertas disponibles. ";
+            }

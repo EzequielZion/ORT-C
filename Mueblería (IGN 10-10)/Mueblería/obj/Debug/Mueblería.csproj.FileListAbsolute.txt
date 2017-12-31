@@ -1,0 +1,21 @@
+F:\ORT\Segundo trimestre\T.Ps\PROGRAMACIÓN\Mueblería\Mueblería\bin\Debug\Mueblería.exe.config
+F:\ORT\Segundo trimestre\T.Ps\PROGRAMACIÓN\Mueblería\Mueblería\bin\Debug\Mueblería.exe
+F:\ORT\Segundo trimestre\T.Ps\PROGRAMACIÓN\Mueblería\Mueblería\bin\Debug\Mueblería.pdb
+F:\ORT\Segundo trimestre\T.Ps\PROGRAMACIÓN\Mueblería\Mueblería\obj\Debug\Mueblería.csprojResolveAssemblyReference.cache
+F:\ORT\Segundo trimestre\T.Ps\PROGRAMACIÓN\Mueblería\Mueblería\obj\Debug\Mueblería.Form1.resources
+F:\ORT\Segundo trimestre\T.Ps\PROGRAMACIÓN\Mueblería\Mueblería\obj\Debug\Mueblería.Properties.Resources.resources
+F:\ORT\Segundo trimestre\T.Ps\PROGRAMACIÓN\Mueblería\Mueblería\obj\Debug\Mueblería.csproj.GenerateResource.Cache
+F:\ORT\Segundo trimestre\T.Ps\PROGRAMACIÓN\Mueblería\Mueblería\obj\Debug\Mueblería.exe
+F:\ORT\Segundo trimestre\T.Ps\PROGRAMACIÓN\Mueblería\Mueblería\obj\Debug\Mueblería.pdb
+G:\ORT\Segundo trimestre\T.Ps\PROGRAMACIÓN\Mueblería\Mueblería\bin\Debug\Mueblería.exe.config
+G:\ORT\Segundo trimestre\T.Ps\PROGRAMACIÓN\Mueblería\Mueblería\obj\Debug\Mueblería.exe
+G:\ORT\Segundo trimestre\T.Ps\PROGRAMACIÓN\Mueblería\Mueblería\obj\Debug\Mueblería.pdb
+G:\ORT\Segundo trimestre\T.Ps\PROGRAMACIÓN\Mueblería\Mueblería\bin\Debug\Mueblería.exe
+G:\ORT\Segundo trimestre\T.Ps\PROGRAMACIÓN\Mueblería\Mueblería\bin\Debug\Mueblería.pdb
+G:\ORT\Segundo trimestre\T.Ps\PROGRAMACIÓN\Mueblería\Mueblería\obj\Debug\Mueblería.csprojResolveAssemblyReference.cache
+G:\ORT\Segundo trimestre\T.Ps\PROGRAMACIÓN\Mueblería\Mueblería\obj\Debug\Mueblería.Form1.resources
+G:\ORT\Segundo trimestre\T.Ps\PROGRAMACIÓN\Mueblería\Mueblería\obj\Debug\Mueblería.Properties.Resources.resources
+G:\ORT\Segundo trimestre\T.Ps\PROGRAMACIÓN\Mueblería\Mueblería\obj\Debug\Mueblería.csproj.GenerateResource.Cache
+G:\ORT\Segundo trimestre\T.Ps\PROGRAMACIÓN\Mueblería (IGN 10-10)\Mueblería\bin\Debug\Mueblería.exe.config
+G:\ORT\Segundo trimestre\T.Ps\PROGRAMACIÓN\Mueblería (IGN 10-10)\Mueblería\obj\Debug\Mueblería.exe
+G:\ORT\Segundo trimestre\T.Ps\PROGRAMACIÓN\Mueblería (IGN 10-10)\Mueblería\obj\Debug\Mueblería.pdb

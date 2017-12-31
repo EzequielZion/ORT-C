@@ -1,0 +1,9 @@
+F:\ORT\Segundo trimestre\T.Ps\PROGRAMACIÓN\Primos\Primos\bin\Debug\Primos.exe.config
+F:\ORT\Segundo trimestre\T.Ps\PROGRAMACIÓN\Primos\Primos\bin\Debug\Primos.exe
+F:\ORT\Segundo trimestre\T.Ps\PROGRAMACIÓN\Primos\Primos\bin\Debug\Primos.pdb
+F:\ORT\Segundo trimestre\T.Ps\PROGRAMACIÓN\Primos\Primos\obj\Debug\Primos.csprojResolveAssemblyReference.cache
+F:\ORT\Segundo trimestre\T.Ps\PROGRAMACIÓN\Primos\Primos\obj\Debug\Primos.Form1.resources
+F:\ORT\Segundo trimestre\T.Ps\PROGRAMACIÓN\Primos\Primos\obj\Debug\Primos.Properties.Resources.resources
+F:\ORT\Segundo trimestre\T.Ps\PROGRAMACIÓN\Primos\Primos\obj\Debug\Primos.csproj.GenerateResource.Cache
+F:\ORT\Segundo trimestre\T.Ps\PROGRAMACIÓN\Primos\Primos\obj\Debug\Primos.exe
+F:\ORT\Segundo trimestre\T.Ps\PROGRAMACIÓN\Primos\Primos\obj\Debug\Primos.pdb

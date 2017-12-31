@@ -1,0 +1,25 @@
+La Asociacion de Futbol Argentina, necesita un sistema que contenga el listado de todos los jugadores de cada equipo.
+
+Para esto, es necesario un sistema, que permita el ingreso de un equipo (el cual se debe cargar en una lista de equipos, si es que aun no existe en esa lista), 
+e introducir a ese equipo, al jugador.
+
+Se necesita mostrar:
+
+	Los sueldos por equipo y la cantidad de jugadores por equipo.
+	El jugador que más gana
+	El jugador más viejo
+	El equipo con más jugadores
+
+Para esto cuenta con una clase jugadores, que tiene:
+
+	Nombre
+	Apellido
+	Sueldo
+	Edad
+
+Una clase llamada equipo que tiene:
+
+	Nombre
+	Lista de jugadores (en c# sería una List<Jugador>)
+
+Por último, a modo de ayuda, debemos tener una lista de equipos, que contenga a todos los equipos
