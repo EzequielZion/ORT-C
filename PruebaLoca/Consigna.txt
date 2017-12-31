@@ -1,0 +1,66 @@
+ienda de Cafe es una empresa conocida por los cafes de Colombia que comercializa
+
+ 
+
+ 
+
+ 
+
+Para fomentar las ventas creó un conjunto de Menus que le otorgan descuentos a sus clientes.
+
+La empresa vende Bebidas (Gaseosa $20 - Cafe $15- Te $10) y Comida (Sandwich $40 - Tortas $30- Medialunas $8)
+
+Los medios de pago son Efectivo, Tarjeta de debito y Tarjeta de credito
+
+ 
+
+En caso que el cliente consuma 2 cafes, se realiza un descuento del 10%
+
+En caso que el cliente consuma más de 6 medialunas, cada una tiene un valor de $6
+
+En caso de combinar Gaseosa y Sandwich, el valor total a pagar es de $50
+
+En caso de pagar en efectivo, se realiza un descuento sobre el total (final) del 10%
+
+En caso de pagar con Debito, se realiza un descuento sobre el total (final) del 5%
+
+Por cada 10 ventas que realice la empresa, es necesario contratar un nuevo mozo.
+Cada mozo tiene un valor de $200 por día.
+
+El costo de la gaseosa es de $7, del cafe de $4 y del te de $2
+
+El costo de el sandwich es de $10, de la torta de $15 y de la medialuna de $2
+
+Ademas, el alquiler + el ABL del local es de $1000 mensual.
+
+ 
+
+ 
+
+Se solicita:
+
+Ingresos del día (no incluye gastos)
+Mostrar cuanto hay en efectivo, cuanto en debito, cuanto en credito
+
+Ganancias del día (ingresos - costos de alimentos - empleados)
+
+Ganancia a fin de mes (Ingresos costos de alimentos - empleados - Alquiler + ABL)
+Indicar si ese mes, se ganó y cuanto y si se perdió y cuanto
+
+ 
+
+ 
+
+Ayuda:
+
+Crear un comboBox + un NumericUpDown para las bebidas
+
+Crear un comboBox + un NumericUpDown para las Comidas
+
+Crear un boton para finalizar la venta del cliente
+
+Crear un boton para Mostrar los ingresos del día
+
+Crear un boton para Mostrar las ganancias del día
+
+Crear un boton para Mostrar las ganancias del mes

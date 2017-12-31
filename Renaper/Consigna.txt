@@ -1,0 +1,60 @@
+El REgistro NAcional de las PERsonas es la entidad gubernamental que se encarga de llevar el registro de todas las personas que se nacionalizan en Argentina.
+
+Ellos son quienes administran toda la información en cuanto a DNI.
+
+Lamentablemente han sufrido un ataque informático y nos pide a nosotros que ayudemos a resolver su problema.
+
+Rápidamente convocaron a todos sus empleados a que carguen manualmente la información sobre los residentes.
+
+Nuestro trabajo es recibir la información que van a ingresar en un textbox y poder separar los campos que se introducen
+para que luego esa información pueda volver a ser guardada en una base de datos
+
+Para eso, se utiliza un patron por el cual se ingresa:
+
+primer nombre
+
+segundo nombre
+
+Apellido
+
+Segundo apellido
+
+fecha de nacimiento (formato DD/MM/AAA)
+
+Codigo postal (FORMATO C1414AOB) (del cual solo se debe mostrar el número, que es lo que realmente interesa)
+
+Dirección
+
+Los datos se ingresan separados por una coma "," y debemos validar que no haya espacios.
+
+En caso de no tener segundo nombre o segundo apellido se ingresa un "-" (guión medio).
+
+Para corroborar que el sistema funciona bien, se debe mostrar en distintos label cada campo.
+
+
+
+Caso correcto:
+
+Ariel,Gustavo,Lipschutz,-,11/08/1988,C1414AOB,Vera 147
+
+Caso INCORRECTO (que debemos validar que no se cometa)
+
+Ariel, Gustavo , Lipschutz, -, 11/08/1988, C1414AOB, vera 147
+
+
+
+En ambos casos lo que se debe mostrar es:
+
+Nombre
+
+Segundo nombre (si es que tiene)
+
+Apellido
+
+Segundo apellido (si es que tiene)
+
+Año y mes de nacimiento
+
+Número de Codigo postal
+
+Dirección

@@ -1,0 +1,7 @@
+A partir del ingreso de una palabra / frase en un único textbox, se necesita saber colocando todas estas opciones en un objeto de tipo MenuStrip (buscar en el toolbox):
+
+-Cantidad de vocales (Indicar cuantas letras A, cuantas letras E, cuantas letras I, cuantas letras O, cuantas letras U)
+-Vocal más usada
+-Cantidad de consonantes (Solo la cantidad)
+-Cantidad de palabras
+-Mostrar palabras / frases palíndromas (o capiculas)

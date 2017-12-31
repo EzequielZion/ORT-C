@@ -1,0 +1,13 @@
+Para el torneo de basket, es necesario contar los puntos del equipo "Amazonas Basket Club"
+ 
+Es por eso que se solicita generar un vector que va a contener los nombres de los jugadores (en total son 6)
+Un vector que va a contener los puntos de los jugadores (Obviamente 6)
+ 
+El sistema, debe permitir ingresar una cantidad de puntos en un numeric up Down, seleccionar un jugador,
+y cargarle al vector los puntos ingresados.
+ 
+Se solicita luego:
+Mostrar el total de puntos marcados
+Mostrar el jugador que más puntos convirtió
+Mostrar el jugador que menos puntos convirtió
+Mostrar la lista de jugadores ordenados de mayor a menor cantidad de puntos marcados

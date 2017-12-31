@@ -1,0 +1,9 @@
+Ingresar un número X Y:
+
+1) mostrar todos los números que sean primos entre 1 y X.
+
+Indicar si la cantidad de números es Par o Impar
+
+2) Indicar si ese número es primo o no
+
+En caso que no sea primo, mostrar el próximo número que si lo sea

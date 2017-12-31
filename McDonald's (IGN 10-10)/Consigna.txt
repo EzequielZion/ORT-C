@@ -1,0 +1,8 @@
+Dados los siguientes vectores de 6 posiciones cada uno:
+VecNombre: Guarda el nombre del combo
+
+VecCantidad: Indica la cantidad de hamburguesas que tiene el combo
+
+VecPrecio: Guarda el precio del combo
+
+Ingresar todos los combos que existen hoy día, y mostrar en forma ordenada (descendente en cuanto a cantidad de hamburguesas) el nombre y precio de los combos.

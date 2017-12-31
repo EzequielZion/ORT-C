@@ -1,0 +1,12 @@
+En pleno apogeo greco-romano en su cumpleaños número 53 Socrates y Aristoteles recibieron una computadora cada uno.
+
+Ambos amantes de las matematicas querían hacer cuentas, pero se encontraron con que no manejan los números náturales (0,1,2,3,4,5,...)
+
+ 
+
+Nuestro objetivo es ayudarlos!
+Para eso, debemos de ingresar en un textbox un número nátural para luego mostrar en un label su valor, en número romano.
+
+ 
+
+Validar que el número sea 0 > x < 1999 (mayor que 0 y menor que 1999)

@@ -1,0 +1,4 @@
+En base a lo aprendido con la sucesión de Fibonacci, desarrollen un sistema que tenga: 
+-Una función que realice la sucesión X veces (Siendo X el número que recibe la función y un string lo que devuelve) "0,1,1,2,3,5,8,".....
+-Una función que realice la sucesión hasta llegar a un número X (Siendo X el número que recibe la función y un string lo que devuelve) "0,1,1,2,3,5,8,".....)
+-Una función que indique si la sucesión de Fibonacci incluye un número X(Siendo x el número que recibe y devuelve true o false)

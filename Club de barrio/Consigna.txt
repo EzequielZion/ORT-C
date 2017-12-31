@@ -1,0 +1,42 @@
+El club Almagro necesita un sistema para administrar las deudas de sus socios.
+ 
+El mismo tiene la siguiente lógica para definir saldos a pagar:
+ 
+Si el socio es menor de 12 años, no paga nada.
+ 
+Si el socio es menor de 21 paga $200 x mes
+ 
+Si el socio es menor de 45 paga $100 x mes
+ 
+Si el socio es mayor o igual de 45 paga $80 x mes.
+ 
+Si el socio tiene más de 20 años de antiguedad no debe pagar ya que se lo considera vitalicio.
+ 
+Si el socio tiene más de 10 años de antiguedad, debe pagar la mitad de lo que corresponde.
+ 
+ 
+ 
+Ademas de esto, los socios pueden realizar los siguientes deportes: backgammon, futbol, hockey, pelota-paleta, burako. Solo puede realizar un deporte.
+ 
+Cada deporte tiene un valor de $5 por letra. (si la palabra tiene 2 letras, el valor es de $10. Si la palabra es de 4 letras el valor es de $20)
+ 
+Se le solicita a cada socio que pase por administración para que este al tanto del monto a abonar.
+ 
+Se necesita saber:
+La recaudación a esperar del club.
+ 
+Deporte con más inscriptos.
+ 
+Campos a completar por los usuarios:
+ 
+Año de nacimiento (utilizar control date time picker para la selección de la fecha),
+ 
+Años de socio (numericupdown)
+ 
+Deportes (combobox)
+ 
+Para calcular años de la persona:
+ 
+int anos = DateTime.Today.Year - dtpFecha.Value.Year;
+ 
+siendo DateTime.Today.Year un objeto de tipo DateTime (tipo fecha) y dtpFecha el nombre del objeto datetimepicker

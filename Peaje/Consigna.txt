@@ -1,0 +1,26 @@
+Peajes:
+
+Auto --$10
+
+Moto --$4
+
+Camioneta $18.50
+
+Camion $32.40
+
+ 
+
+Mostrar:
+
+Mostrar el monto a pagar por el vehiculo
+
+La recaudación total
+
+El vehiculo que màs transitò
+
+ 
+
+Adicionales
+1) Indicar la cantidad total de vehículos que pasaron
+
+2) El vehículo número 100 (o 200, o 300, o 400, etc) pasa gratis. Debe contarse como vehículo, pero no debe sumarse a la recaudación.

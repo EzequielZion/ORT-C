@@ -1,0 +1,13 @@
+Dado un NumericUpDown (y solo uno) y dos botones, se deben crear 3 variables cada una representando una nota de cada trimestre.
+
+El sistema debe indicar si el alumno aprueba la materia o no.
+
+Las condiciones son similares a las de la escuela.
+
+El promedio debe ser mayor o igual a 6 y el tercer trimestre debe estar aprobado.
+
+Caso contrario el alumno está desaprobado.
+
+Mostrar al final, el porcentaje de alumnos aprobados sobre el total de alumnos que se ingresaron
+
+Validar que la nota sea valida (mayor a 0 y menor a 11)

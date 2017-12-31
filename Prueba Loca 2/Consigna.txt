@@ -1,0 +1,15 @@
+Ingresar un texto en un textbox y en botones:
+
+1)      Indicar cuantas palabras tiene (Utilizando el while si es posible)
+
+2)      Indicar además, cuantas palabras son impares (con un for si es posible)
+
+3)      Indicar si se ingresó algún número y en tal caso, cuantos (Con un for si es posible)
+
+4)      Ingresar dos números (en dos numeric Up Down) y mostrar todos los números primos entre ellos dos
+
+ 
+
+ 
+
+Todos los puntos deben ser resueltos utilizando funciones

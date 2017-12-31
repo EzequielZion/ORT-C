@@ -1,0 +1,29 @@
+Un consultorio medico realiza diferentes estudios (radiografias, implantes, ecografias y analisis de orína).
+
+El valor de cada estudio es el siguiente: (respectivamente) $90, $300, $150, $60
+
+Al final del dia se requiere saber cuantos hombres y mujeres realizaron cada estudio, dinero recaudado por estudio y el total recaudado.
+
+Si es mujer y mayor de 60 (por lo tanto debería ser jubilado) paga solo el 50% del tratamiento.
+
+Si es hombre y mayor de 65 (por lo tanto debería ser jubilado) paga solo el 50% del tratamiento.
+
+Cada estudio tiene un costo respectivo de $20, $60, $40, $15
+
+Ademas se requere de 1 empleado por cada 8 estudios, cobrando cada uno de ellos $200 por mes.
+
+Al cierre del mes, se debe obtener los ingresos totales, es decir lo ganado menos los costos.
+
+ 
+
+ADICIONALES
+1) Las estadisticas indican que cada 4 pacientes, uno requiere traslado en ambulancia.
+El valor por Viaje es de $120 a Capital Federal y de $180 para GBA.
+
+Si paga en efectivo, hay un descuento del 10%.
+
+Si paga con tarjeta, debe pagar el valor total.
+
+Tener en cuenta que los costos de nafta y mantenimiento del vehiculo, son de $40 por viaje.
+
+Sumar esta recaudación a la recaudación total.

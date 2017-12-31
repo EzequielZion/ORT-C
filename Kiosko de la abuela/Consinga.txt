@@ -1,0 +1,19 @@
+Mi abuela necesita un sistema para saber rápidamente cuanto vuelto debe dar a los clientes.
+ 
+Como su vista no es la mejor, nos pide que el vuelto, en lugar de mostrarlo en texto, lo muestre con imagenes de billetes o bien de monedas.
+ 
+EJ:
+ 
+Si el cliente debe: $35 y paga con $50:
+ 
+Mostrar un billete de $10 y un billete de $5
+ 
+Si un cliente debe $51 y paga con $60:
+ 
+Mostrar un billete de $5 y dos billetes de $2 ( O un "2 X " y el billete de $2
+ 
+Obtener también el vuelto en centavos
+ 
+Investigar el objeto PictureBox.
+ 
+Desde  ya, mi abuela les agradece mucho!
